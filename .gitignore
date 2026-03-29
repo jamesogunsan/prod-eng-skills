@@ -1,0 +1,46 @@
+# OS and editor files
+.DS_Store
+.idea/
+.vscode/
+
+# Python caches and environments
+__pycache__/
+*.pyc
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+.venv/
+venv/
+*.egg-info/
+.eggs/
+pip-wheel-metadata/
+.python-version
+
+# Node and frontend artifacts
+node_modules/
+coverage/
+dist/
+build/
+
+# Local runtime and generated files
+.claude/
+*.skill
+*.log
+.env
+.env.*
+
+# Local command output directories
+.performance-optimization/
+.database-cloud-optimization/
+.git-workflow/
+.git-onboarding/
+.pr-enhance/
+.incidents/
+.observability/
+.python-development/
+.python-scaffold/
+.security-compliance/
+.tdd-workflows/
+.unit-testing/
